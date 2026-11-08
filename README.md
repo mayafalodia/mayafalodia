@@ -1,7 +1,7 @@
 ## Hi there 👋
 <img width="400" height="400" alt="maya" src="https://github.com/user-attachments/assets/d5761e2c-737c-4a3d-914f-a2182076efe8" />
 
-I'm Maya Falodia, a junior at the University of Washington studying computer science.
+I'm Maya Falodia, a senior at the University of Washington studying computer science.
 
 Email: mayaf4@cs.washington.edu
 
